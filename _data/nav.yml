@@ -1,0 +1,17 @@
+- name: "Contact"
+  link: "contact"
+
+# - name: "Blog"
+#   link: "contact"
+
+- name: "Resume"
+  link: "/data/resume.pdf"
+
+# - name: "Projects"
+#   link: "projects"
+
+# - name: "Publications"
+#   link: "publications"
+
+- name: "Updates"
+  link: "/#updates"

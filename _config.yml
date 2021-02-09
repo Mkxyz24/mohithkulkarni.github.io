@@ -1,0 +1,17 @@
+title: Mohith Kulkarni
+url: "https://mohith-kulkarni.github.io"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/mohith-kulkarni"
+footer_text: "Mohith Kulkarni (c) 2021"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+include: ["_includes"]
