@@ -30,27 +30,29 @@ I graduated from [BITS Pilani](https://www.bits-pilani.ac.in), India, in 2020 wi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[1 Dec 2020\]** | Our Work done during at CVIT, IIIT-H got accepted at [ICON](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/main_prog.html) 2020.
-**\[18 Nov 2020\]** | Our Work done during my thesis at I2R, A*STAR got accepted at DYNAMICS Workshop part of [ACSAC](https://www.acsac.org/) 2020.
-**\[10 Nov 2020\]** | Started my [YouTube channel](https://www.youtube.com/channel/UCV7-XAVPAH4c7Xe7EwNTaAw) on explaining ML and Deep Learning papers -- Inspired by [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew).
+<!--**\[1 Dec 2020\]** | Our Work done during at CVIT, IIIT-H got accepted at [ICON](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/main_prog.html) 2020.-->
+**\[8 Sep 2020\]** | Graduated from BITS Pilani, Hyderabad with B.E Computer Science Degree being placed in first division.
+**\[3 Aug 2020\]** | Joined MathWorks, Hyderabad as an Associate Support Engineer.
+<!--**\[10 Nov 2020\]** | Started my [YouTube channel](https://www.youtube.com/channel/UCV7-XAVPAH4c7Xe7EwNTaAw) on explaining ML and Deep Learning papers -- Inspired by [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew).
 **\[6 Nov 2020\]** | Our Work done during my thesis at I2R, A*STAR has been filed for an internal patent.
 **\[18 Sep 2020\]** | Participated in [Indic Multilingual Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) in of Workshop on Asian Translation 2020 as team **cvit**. Produced close to SOTA results in four languages -- [Odiya](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=89&o=7) (2nd), [Malayalam](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=119&o=7) (2nd), [Telugu](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=125&o=7) (3rd) and [Tamil](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=123&o=7) (3rd)
 **\[1 Aug 2020\]** | Joined Center for Visual Information Technology (CVIT), IIIT Hyderabad as a research fellow under Prof. C V Jawahar.
 **\[8 Jul 2020\]** | Submitted my undergraduate thesis at BITS Hyderabad.
-**\[17 Feb 2020\]** | Joined Institute of Infocomm Research (I2R), A*STAR in Singapore as a research assistant under Dr. Sai Praveen Kadiyala.
-**\[12 Dec 2019\]** | Accepted position as RA at Institute of Infocomm Research (I2R), A*STAR in Singapore.
-**\[20 May 2019\]** | Joined as a "TA" for [Deep Learning at WILP, BITS](https://bits-pilani-wilp.ac.in/m-tech/cluster/data-science-and-engineering.php).
+**\[17 Feb 2020\]** | Joined Institute of Infocomm Research (I2R), A*STAR in Singapore as a research assistant under Dr. Sai Praveen Kadiyala.-->
+**\[4 Jul 2019\]** | Joined IMI Mobile, Hyderabad as a Data Science Intern.
+<!--**\[20 May 2019\]** | Joined as a "TA" for [Deep Learning at WILP, BITS](https://bits-pilani-wilp.ac.in/m-tech/cluster/data-science-and-engineering.php).-->
 **\[21 May 2018\]** | Joined National Textile Corporation, Coimbatore as a Software Developer Intern.
 
 
 
-## Teaching
+<!--## Teaching
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 August 2020: |  Teaching assistant (TA) in the course **Deep Learning**, WILP, BITS Pilani.
 August 2019: | Teaching assistant (TA) in the course **Feature Engineering**, WILP, BITS Pilani. Course instructor: [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile)
 May 2019: | Teaching assistant (TA) in the course **Regression**, WILP, BITS Pilani. Course instructor: [Prof. N L Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile)
+-->
 
 
 
@@ -76,11 +78,11 @@ May 2019: | Teaching assistant (TA) in the course **Regression**, WILP, BITS Pil
 - *Web Developer & Proceedings*: IEEE International Conference on Microwave and Photonics (**ICMAP**) 2013, [IIT Dhanbad](https://www.iitism.ac.in/).
  -->
 
-
+<!-->
 ## Other Activity
 
 - **[2017 - 2019]**: App Developer,  DoTA, Department of Technical Arts, BITS.
-
+-->
 <!---
 - **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA).
 
