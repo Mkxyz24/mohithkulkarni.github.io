@@ -12,10 +12,10 @@ is_contact: true
 
 > 1st Floor
 >
-> H.No 13-146/2, Street Number 5,
-    Kista Reddy Colony, Upppal
+> H.No 13-146/2, Street No. 5,
+    Kista Reddy Colony, Uppal
 >
-> Hyderabad, India
+> Hyderabad - 500039, Telangana, India
 
 ---
 
