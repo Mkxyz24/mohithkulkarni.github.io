@@ -21,5 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [GitHub](https://github.com/mohith_kulkarni)
+1. [GitHub](https://github.com/mohithkulkarni)
 2. [LinkedIn](https://www.linkedin.com/in/mohith-kulkarni-b53487170/)
