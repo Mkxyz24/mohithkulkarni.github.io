@@ -11,18 +11,18 @@ title: Mohith Kulkarni
 
 ## Bio
 
-I am an Associate Support Engineer at [MathWorks India](https://www.mathworks.com/), where I work in the wireless communications team.
+I am an Associate Support Engineer at [MathWorks India](https://www.mathworks.com/), where I work in the wireless communications modelling team.
 <!-- am jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My research is focused on neural machine translation for low resource languages using low compute resources. -->
 
-Prior to this, I have spent a brief time as an intern at [IMI Mobile](https://imimobile.com) in Hyderabad working on the 
-[WRITE SOMETHING HERE!]
+Prior to this, I have spent a brief time as an intern at [IMI Mobile](https://imimobile.com) in Hyderabad working on customer churn prediction using supervised machine learning models.
 <!-- problem of dynamic analysis of benign programs, under the supervision of [Dr. Sai Praveen Kadiyala](https://www.linkedin.com/in/kadiyala-sai-praveen-92131733/).  -->
 
 <!--
 Dummy Paragraph
 -->
 
-I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E in Computer Science. During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu. I also worked with [Prof. G Geethakumari](https://scholar.google.com/citations?user=IKddJZEAAAAJ&hl=en) on detecting RPL Attacks in Low Power and Lossy Networks (LLN).
+I graduated from [BITS Pilani](https://www.bits-pilani.ac.in), India, in 2020 with a B.E in Computer Science. 
+<!--During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu. I also worked with [Prof. G Geethakumari](https://scholar.google.com/citations?user=IKddJZEAAAAJ&hl=en) on detecting RPL Attacks in Low Power and Lossy Networks (LLN). -->
 
 ***
 
